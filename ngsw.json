@@ -1,0 +1,131 @@
+{
+  "configVersion": 1,
+  "timestamp": 1641544127640,
+  "index": "/elements/index.html",
+  "assetGroups": [
+    {
+      "name": "@angular-extensions/elements",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/elements/15.8f7dac26f2801cf5.js",
+        "/elements/167.af90d72893636763.js",
+        "/elements/189.74b3c52249c846ad.js",
+        "/elements/228.927bde80785414f4.js",
+        "/elements/291.956d98e5d5a96482.js",
+        "/elements/316.03822f51627b9dab.js",
+        "/elements/338.c38185c6bded7dcb.js",
+        "/elements/344.3843e32647fed006.js",
+        "/elements/388.cea7c75d637504d8.js",
+        "/elements/458.bd4d9a04c5a716e1.js",
+        "/elements/470.da146cb064569287.js",
+        "/elements/531.c400a17b6c7e4f1c.js",
+        "/elements/569.b6dbb3ab75b1d199.js",
+        "/elements/576.abe796cceb468f13.js",
+        "/elements/741.de2f292ce32d5d5d.js",
+        "/elements/896.290cd4da1f8b5e19.js",
+        "/elements/95.698f420639617a6a.js",
+        "/elements/975.8a4c8753125c627a.js",
+        "/elements/common.dcf7a32424ee4b4c.js",
+        "/elements/favicon.ico",
+        "/elements/index.html",
+        "/elements/main.a2e9bf5436239825.js",
+        "/elements/polyfills.8c76e00ed02e3bd7.js",
+        "/elements/runtime.60d49fc3ef321d27.js",
+        "/elements/styles.a0190132f726be2f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/elements/assets/icons/icon-128x128.png",
+        "/elements/assets/icons/icon-144x144.png",
+        "/elements/assets/icons/icon-152x152.png",
+        "/elements/assets/icons/icon-192x192.png",
+        "/elements/assets/icons/icon-384x384.png",
+        "/elements/assets/icons/icon-512x512.png",
+        "/elements/assets/icons/icon-72x72.png",
+        "/elements/assets/icons/icon-96x96.png",
+        "/elements/assets/logo/github.svg",
+        "/elements/assets/logo/logo.png",
+        "/elements/assets/logo/logo.svg",
+        "/elements/assets/logo/npm.svg",
+        "/elements/assets/logo/twitter.svg",
+        "/elements/assets/social-preview.png",
+        "/elements/assets/tomastrajan.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/elements/15.8f7dac26f2801cf5.js": "62629eb55ba4203e7569bf5236f9d04630976dc7",
+    "/elements/167.af90d72893636763.js": "e2049af35e81003a4596955b22bcc3d39d62d39f",
+    "/elements/189.74b3c52249c846ad.js": "335dfbb36dd19e2fd4a5ac4318fd261da4a3300e",
+    "/elements/228.927bde80785414f4.js": "09fe084a0a892494b01eed50c3753892944fc102",
+    "/elements/291.956d98e5d5a96482.js": "e914f7d70e493b1797a73937d2a2b8baec5abad2",
+    "/elements/316.03822f51627b9dab.js": "64278b79e06144d3088d741031e47306243ff987",
+    "/elements/338.c38185c6bded7dcb.js": "0a3a63a2abc26abd47e2822bb05b87faeb8901ed",
+    "/elements/344.3843e32647fed006.js": "31732b3153225d4698fbe4266b192ed66650c9aa",
+    "/elements/388.cea7c75d637504d8.js": "e19a328d92801e90d57191c740eed922aaca04f1",
+    "/elements/458.bd4d9a04c5a716e1.js": "beff38506b0233608a65671dee64c304bae8591e",
+    "/elements/470.da146cb064569287.js": "6537ce2f95f4a485fc326bb01eba616975f48e9c",
+    "/elements/531.c400a17b6c7e4f1c.js": "cb2cfbe382fb74a79ac1d30db8e33794061d24f2",
+    "/elements/569.b6dbb3ab75b1d199.js": "c4c6a3e4c863ea4030a0ac4d96984433f84fd2a7",
+    "/elements/576.abe796cceb468f13.js": "6e7515039ffc2351420e16329fcfc2b65af1d205",
+    "/elements/741.de2f292ce32d5d5d.js": "674a82cc51e3beede0189a54d9a3defb1faec8bb",
+    "/elements/896.290cd4da1f8b5e19.js": "b9eeae6a5008212cab1c312c69036c4ee87daf1c",
+    "/elements/95.698f420639617a6a.js": "075c4f5e92fc5a66dfdc81693ccba5aae79d8397",
+    "/elements/975.8a4c8753125c627a.js": "4b5cbf7274096d8ee3bbcfad1f6a5dffa1ddcb41",
+    "/elements/assets/icons/icon-128x128.png": "bb4c16ecdaf39eed9392f004d47690c6ca74a0ec",
+    "/elements/assets/icons/icon-144x144.png": "5e239a5f4a1baf09ecc26ab67b1661d606a312b2",
+    "/elements/assets/icons/icon-152x152.png": "d006afa46e441ae9aecedc44499afe54522147be",
+    "/elements/assets/icons/icon-192x192.png": "75dad1a5c614cfc6310de05f1f5552fc5956395c",
+    "/elements/assets/icons/icon-384x384.png": "93236fcff3aebee64a2a304572fe8ddfd0a358b8",
+    "/elements/assets/icons/icon-512x512.png": "4a63a95594b9df4a309df895feb80c9faad6ecac",
+    "/elements/assets/icons/icon-72x72.png": "98d1f700cee5fd6ac7e45c5e923c29a0b9298b9c",
+    "/elements/assets/icons/icon-96x96.png": "66daddebff01ed53ae0125358774fac84bbbca6d",
+    "/elements/assets/logo/github.svg": "8b032d9d804587c18e6f5b0cbf25629d5097f6cf",
+    "/elements/assets/logo/logo.png": "4c01cf51ac3d4972c09e4ca34965c5a0531ea69f",
+    "/elements/assets/logo/logo.svg": "2202e270d20c6683dac48db8ca46aff3a33d9ba9",
+    "/elements/assets/logo/npm.svg": "7247742a1f130aa7d4bbc0cff0643d04ca450570",
+    "/elements/assets/logo/twitter.svg": "165ec9568b6be0931333417a723b7c4dfabbd7fe",
+    "/elements/assets/social-preview.png": "3d8cf5e84d0f8cadde88484381062aa37b745b5a",
+    "/elements/assets/tomastrajan.png": "0ff17fab2999628e40209cd3359276dd86fbd992",
+    "/elements/common.dcf7a32424ee4b4c.js": "e86c6ff50c811218e8f41f1cef71997d286c10ff",
+    "/elements/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/elements/index.html": "9e769e72f45f4231e3d30bb2dc0dd39a3f322294",
+    "/elements/main.a2e9bf5436239825.js": "35a80283a460e1b4864a7b3d8fdfad1fea706122",
+    "/elements/polyfills.8c76e00ed02e3bd7.js": "97f200182c5683370af50674f386787a04559b24",
+    "/elements/runtime.60d49fc3ef321d27.js": "feb305a0b323e0e0d5fc3a08e05f536d576090e5",
+    "/elements/styles.a0190132f726be2f.css": "46b5d08143b876ce7a6273c8c5c2dfc4bc2274e8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
